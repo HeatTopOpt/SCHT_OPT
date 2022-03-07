@@ -19,3 +19,6 @@ After installing the above software, enter the _solver_ folder and compile the s
 ## Post-processing
 After the optimization, users should run `reconstructPar` in the app folder and then run `paraFoam` to view the results with Paraview.
 ## Results
+### 2D_h=1
+![alt 属性文本](https://github.com/HeatTopOpt/SCHT_OPT/blob/master/SCHT/2D_h%3D1.gif)
+
