@@ -23,7 +23,7 @@ startTime       0;
 
 stopAt          endTime;
 
-endTime         400;
+endTime         200;
 
 deltaT          1;
 
@@ -45,7 +45,7 @@ timePrecision   12;
 
 runTimeModifiable true;
 
-libs ( "libOpenFOAM.so" "libgroovyBC.so" ) ;
+libs ( "libOpenFOAM.so" ) ;
 
 
 // ************************************************************************* //
