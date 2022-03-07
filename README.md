@@ -21,4 +21,8 @@ After the optimization, users should run `reconstructPar` in the app folder and 
 ## Results
 ### 2D_h=1
 ![alt 属性文本](https://github.com/HeatTopOpt/SCHT_OPT/blob/master/SCHT/2D_h%3D1.gif)
+### 3D_h=0.001
+![alt 属性文本](https://github.com/HeatTopOpt/SCHT_OPT/blob/master/SCHT/3D_h%3D0.001.gif)
+### 3D_h=1
+![alt 属性文本](https://github.com/HeatTopOpt/SCHT_OPT/blob/master/SCHT/3D_h%3D1.gif)
 
