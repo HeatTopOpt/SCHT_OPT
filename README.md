@@ -1,7 +1,7 @@
 # SCHT_OPT
 ## Description
 This code is used to solve the topology optimization problem of simplified convective heat transfer.
-## Configuration environment
+## Configure environment
 (1) **OpenFOAM-6** (new version is applicable)  
 (2) **PETSc-3.12.0** (new version is applicable)  
 (3) **openMPI-1.10.0** (new version is not applicable)  
