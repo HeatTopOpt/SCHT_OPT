@@ -1,6 +1,6 @@
 # SCHT_OPT
 ## Description
-This code is used to solve the topology optimization problem of simplified convective heat transfer.
+This code is used to solve the topology optimization problem of simplified convective heat transfer (SCHT).
 ## Configure environment
 (1) **OpenFOAM-6** (new version is applicable)  
 (2) **PETSc-3.12.0** (new version is applicable)  
