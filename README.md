@@ -17,5 +17,5 @@ After installing the above software, enter the _solver_ folder and compile the s
 (2) Use the `decomposePar` command to block the calculation model.  
 (3) Finally, `mpirun -n 6 SCHT_OPT -parallel` is used for parallel topology optimization calculation.
 ## Post-processing
-After the optimization, users should run reconstructPar in the app folder and then run paraFoam to view the results with Paraview.
+After the optimization, users should run `reconstructPar` in the app folder and then run `paraFoam` to view the results with Paraview.
 ## Results
